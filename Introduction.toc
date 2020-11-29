@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Windows vs Linux}{2}{0}{1}
+\beamer@sectionintoc {2}{系统安装}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{两种方式}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{虚拟机安装}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{双系统安装}{32}{0}{2}
+\beamer@subsectionintoc {2}{4}{CentOS安装}{33}{0}{2}
+\beamer@sectionintoc {3}{常用命令}{45}{0}{3}
+\beamer@sectionintoc {4}{Vim常用命令}{53}{0}{4}
+\beamer@sectionintoc {5}{小任务}{55}{0}{5}
