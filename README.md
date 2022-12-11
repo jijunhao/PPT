@@ -1,2 +1,2 @@
-# PPT-
-Latex做PPT
+# PPT
+Latex做PPT模板
